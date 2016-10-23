@@ -23,7 +23,7 @@ void MainWindow::on_countLineBtn_clicked()
       int n = obj.getAllLines();
       ui->countLineValue->setText(QString::number(n+1));
 }
-
+//agaga
 void MainWindow::on_epmtyLineBtn_clicked()
 {
     //количество пустых строк
